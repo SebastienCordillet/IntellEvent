@@ -25,12 +25,12 @@ If you would like to use Vicon Nexus 2.12.1, please get in touch, we will find a
 
 # Vicon Nexus Usage
 
-1) Download the `25_IntellEvent.zip` folder from the release **[here](https://github.com/fhstp/IntellEvent/releases/download/v2.0/25_IntellEvent.zip)**.
+1) Download the `25_IntellEvent.zip` folder from the release **[here](https://github.com/fhstp/IntellEvent/releases/download/v2.0/v2.0_IntellEvent.zip)**.
 2) Extract the files to a folder of your choice. **Note:** All files must be loacated in the same folder. <br><br>
    <img src="img/extracted_folder.png" alt="Extracted Folder" height=400, width="600"> <br><br>
 3) Start the `vicon_server.exe`. <br><br>
    <img src="img/vicon_server.png" alt="Starting the vicon_server" height=300, width="700"> <br><br>
-4) Create a new `Run Python Operation` in a Vicon Nexus pipeline from the operation `Data Processing` tab. Add the `vicon_pipeline.py` to the `Python script file` path. <br> <br>
+4) Create a new `Run Python Operation` in a Vicon Nexus pipeline from the operation `Data Processing` tab. Add the `vicon_intellevent.py` to the `Python script file` path. <br> <br>
    <img src="img/vicon_pipeline.png" alt="Vicon Nexus *IntellEvent* pipeline" height=180, width="500"> <br><br>
 5) Run the pipeline and save time!
 
